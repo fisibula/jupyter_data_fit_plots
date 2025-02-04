@@ -1,6 +1,6 @@
 Instrucciones se uso:
-1. Copie las parejas ordenas (x,y) en una hoja Excel y guardelo como una archivo tipo .cvs
-   Si abre el archivo .cvs en el bloc de notas, debe verse asi:
+1. Copie las parejas (x,y) en una hoja Excel y guardelas como una archivo tipo .csv
+   Si abre el archivo .csv en el bloc de notas, debe verse asi:
 
    x;y
 147.744025;459.69
